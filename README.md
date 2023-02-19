@@ -3,7 +3,7 @@ In this game we try to implement the game step by step so that pac-man can impro
 
 Phases of pac-man game will be described as below:
 ## Phase 1: 
-The goals is reaching optimally to a position to find a food. The algorithms implemented in the phase:
+The goal is reaching optimally to a position to find a food. The algorithms implemented in the phase:
 * DFS (Depth First Algorithm)
 * BFS (Breadth First Algorithm)
 * ${A^*}$ Search Algorithm
@@ -18,3 +18,6 @@ In this phase we implement value interation and Q-learning. The algorithms imple
 *  Asynchronous Value Iteration
 *  Prioritized Sweeping Value Iteration
 *  Approximate Q-learning
+
+## Phase 4: 
+The goal is designing sensors to locate and eat the ghosts.
